@@ -56,7 +56,6 @@ You can upload a report as an image by sending a **POST** request to *Pevooo.pyt
   "filename": "FILENAME HERE",
   "filedata": "FILE DATA HERE"
 }
-
 ```
 
 ## 2. Flutter Application
