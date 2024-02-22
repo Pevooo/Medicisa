@@ -25,7 +25,7 @@ The api will send status if an ooperation was successful or not.
 
 
 ##### 1.2.1 Registration
-You can register a new user in the database by sendinng a **POST** request to: *Pevooo.pythonanywhere.com/add/<id>* where "<id>" represents the id of the new user.
+You can register a new user in the database by sendinng a **POST** request to: *Pevooo.pythonanywhere.com/add/{id}* where "{id}" represents the id of the new user.
 ###### Example
 ```
 {
@@ -38,7 +38,7 @@ You can register a new user in the database by sendinng a **POST** request to: *
 ```
 
 ##### 1.2.2 Login
-You can access an account details by sendinng a **POST** request to: *Pevooo.pythonanywhere.com/get/<id>* where "<id>" represents the id of the new user.
+You can access an account details by sendinng a **POST** request to: *Pevooo.pythonanywhere.com/get/{id}* where "{id}" represents the id of the new user.
 ###### Example
 ```
 {
@@ -48,7 +48,7 @@ You can access an account details by sendinng a **POST** request to: *Pevooo.pyt
 ```
 
 ##### 1.2.3 Uploading Reports
-You can upload a report as an image by sending a **POST** request to *Pevooo.pythonanywhere.com/upload_report/<id>* where "<id>" represents the id of the new user. The photo has to be represented as a string.
+You can upload a report as an image by sending a **POST** request to *Pevooo.pythonanywhere.com/upload_report/{id}* where "{id}" represents the id of the new user. The photo has to be represented as a string.
 ###### Example 
 ```
 {
