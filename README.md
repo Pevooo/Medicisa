@@ -1,5 +1,5 @@
 # Medicisa
-Medicisa is a comprehensive mobile application designed to empower individuals to take control of their health and well-being. Whether you're managing a chronic condition, looking to stay on top of your medication regimen, or seeking expert medical advice, Medicisa provides all the tools and resources you need in one convenient platform.
+Medicisa is a comprehensive mobile application designed to empower individuals to take control of their health and well-being. Whether you're managing a chronic condition, looking to seek expert medical advice, Medicisa provides all the tools and resources you need in one convenient platform.
 This project was made using Flutter, Firebase, Flask
 
 ## 1. API
