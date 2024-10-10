@@ -39,7 +39,7 @@ You can register a new user in the database by sendinng a **POST** request to: *
 ```
 
 ##### 1.2.2 Login
-You can access an account details by sendinng a **POST** request to: *Pevooo.pythonanywhere.com/get/{id}* where "{id}" represents the id of the new user.
+You can access an account details by sendinng a **POST** request to: */{id}* where "{id}" represents the id of the new user.
 ###### Example
 ```
 {
